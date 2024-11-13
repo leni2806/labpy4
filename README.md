@@ -49,7 +49,7 @@ Program terdiri dari dua komponen utama:
      * Nilai UTS
      * Nilai UAS
 
-<img src="/input.png" width="500">
+<img src="/hasil_input.png" width="500">
 
    - Data divalidasi untuk memastikan format yang benar
 
@@ -102,13 +102,13 @@ Program terdiri dari dua komponen utama:
 
 ## Contoh Output
 
-<img src="/output1.png" width="500">
+<img src="/hasil_output_leni.png" width="500">
 
 
 
 ## Flowchart Program
 
-<img src="/flowchartprak5.png" width="500">
+<img src="/flowchart.leni.png" width="500">
 
 
 ## Requirements
@@ -116,7 +116,7 @@ Program terdiri dari dua komponen utama:
 - Tidak memerlukan library tambahan
 
 ## Author
-Diva Zahrotunnisa
+Leni
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
