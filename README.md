@@ -108,7 +108,7 @@ Program terdiri dari dua komponen utama:
 
 ## Flowchart Program
 
-<img src="/flowchart.leni.png" width="500">
+<img src="/Flowchart.leni.png" width="500">
 
 
 ## Requirements
