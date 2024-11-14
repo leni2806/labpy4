@@ -102,7 +102,7 @@ Program terdiri dari dua komponen utama:
 
 ## Contoh Output
 
-<img src="/Hasil_Output_leni(2).png" width="500">
+<img src="/Hasil_Output_Leni(2).png" width="500">
 
 
 
